@@ -1,2 +1,2 @@
-# backstop-travis-setup
-Sets up Backstop with Travis for Visual Regression Testing
+# BackstopJS Travis Integration
+A test environment that sets up a simple HTML page to be tested with Backstop each time Travis CI runs.
